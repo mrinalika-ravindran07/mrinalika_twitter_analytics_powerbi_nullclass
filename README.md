@@ -3,7 +3,7 @@ Building real-time twitter analytics dashboard using Power BI
 
 
 # Build Real-Time Twitter Analytics Dashboard – Power BI
-## 📊 Internship Project Submission  
+## Internship Project Submission  
 **Submitted by:** Mrinalika Ravindran  
 **Internship Role:** Data Analyst Intern  
 **Organization:** NullClass Edtech Private Limited  
@@ -12,14 +12,14 @@ Building real-time twitter analytics dashboard using Power BI
 
 ---
 
-## 📝 Project Overview
+## Project Overview
 
 This project involves building a real-time Twitter analytics dashboard using Power BI. The dashboard is designed to visualize and analyze tweet performance metrics such as impressions, engagement rates, clicks, and more — with complex filters and conditional logic applied using DAX.
 The tasks were completed as part of the internship program after undergoing Power BI training modules provided by NullClass. Each task was aimed at enhancing practical understanding of real-time data filtering, dashboard responsiveness, and advanced data modeling.
 
 ---
 
-## ✅ Completed Tasks
+## Completed Tasks
 
 ### Task 1: Click Type Proportion Analysis  
 - Pie chart showing the proportion of total clicks (URL, profile, hashtag)  
